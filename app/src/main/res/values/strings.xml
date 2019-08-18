@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWebBrowser</string>
+    <string name="SEARCH_SITE">검색사이트</string>
+</resources>
